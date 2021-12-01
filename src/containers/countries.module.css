@@ -1,0 +1,7 @@
+.title{
+
+    font-size: 2rem !important;
+    color:var(--clr-primary-1);
+    text-align: center;
+    text-transform: uppercase;
+}
